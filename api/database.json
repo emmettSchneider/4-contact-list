@@ -3,11 +3,14 @@
     {
       "firstName": "Billy Bob",
       "lastName": "McGee",
-      "addressLine1": "Rural Route 22",
+      "addressLine1": "Rural Route 2",
       "addressLine2": "",
       "city": "Coalwood",
       "state": "WV",
-      "zipCode": "24828"
+      "zipCode": "24828",
+      "emailAddress": "bbmcgee@aol.com",
+      "phoneNumber": "555-555-5555",
+      "id": 1
     }
   ]
 }
